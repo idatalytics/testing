@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg1" { 
-name = "testing-monday"
+name = "testing-afternoon"
 location ="eastus"
 }
