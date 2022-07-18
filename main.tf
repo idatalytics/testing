@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg1" { 
-name = "jenkins"
+name = "trial-idata"
 location ="eastus"
 }
